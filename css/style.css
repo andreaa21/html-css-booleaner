@@ -41,5 +41,18 @@ p{
 }
 
 ul{
-  margin-top: 30px;
+  margin-top: 20px;
+}
+
+table{
+  margin-top: 20px;
+}
+
+thead{
+  background-color: rgb(98, 179, 245);
+  color: white;
+}
+
+.tr-color{
+  background-color: rgba(104, 224, 224, 0.712);
 }
