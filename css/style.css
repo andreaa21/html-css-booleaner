@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+}
+
+
+
+.title{
+  background-color: rgb(43, 167, 250);
+  height: 70px;
+}
+
+
+.autore, .data{
+  color: rgb(78, 72, 72);
+  font-size: smaller;
+}
+
+#booleaner{
+  color: rgb(61, 192, 231);
+}
+
+.gallery{
+  margin-top: 20px;
+}
+
+.credits{
+  font-size: x-small;
+}
