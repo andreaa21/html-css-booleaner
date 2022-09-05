@@ -2,9 +2,14 @@
   margin: 0;
 }
 
-
+.first-section, .second-section, {
+  margin-top: 20px;
+}
 
 .title{
+  background-image: url(/img/pattern.png);
+  background-repeat: repeat;
+  background-size: 300px;
   background-color: rgb(43, 167, 250);
   height: 70px;
 }
@@ -25,4 +30,16 @@
 
 .credits{
   font-size: x-small;
+}
+
+.highlight{
+  background-color: yellow;
+}
+
+p{
+  margin-top: 20px;
+}
+
+ul{
+  margin-top: 30px;
 }
