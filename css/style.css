@@ -58,6 +58,14 @@
   background-image: url(/img/graph.jpg);
 }
 
+.align{
+  text-align:left;
+}
+
+th{
+  width: 500px;
+}
+
 p{
   margin-top: 20px;
 }
